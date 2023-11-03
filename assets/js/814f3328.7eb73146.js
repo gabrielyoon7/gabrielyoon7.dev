@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgabrielyoon_7_dev=self.webpackChunkgabrielyoon_7_dev||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\uc548\ub155\ud558\uc138\uc694","permalink":"/gabrielyoon7.dev/blog/1","unlisted":false}]}')}}]);

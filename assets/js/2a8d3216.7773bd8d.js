@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgabrielyoon_7_dev=self.webpackChunkgabrielyoon_7_dev||[]).push([[910],{9874:e=>{e.exports=JSON.parse('{"label":"world","permalink":"/gabrielyoon7.dev/blog/tags/world","allTagsPath":"/gabrielyoon7.dev/blog/tags","count":1,"unlisted":false}')}}]);
