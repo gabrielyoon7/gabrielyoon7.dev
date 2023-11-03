@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgabrielyoon_7_dev=self.webpackChunkgabrielyoon_7_dev||[]).push([[5533],{7599:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/gabrielyoon7.dev/blog/tags/docusaurus","allTagsPath":"/gabrielyoon7.dev/blog/tags","count":4,"unlisted":false}')}}]);
